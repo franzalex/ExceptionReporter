@@ -14,7 +14,6 @@ Imports System.Runtime.CompilerServices
 Imports System.Windows.Forms
 Imports Microsoft.Samples
 Imports Newtonsoft.Json
-''Imports JsonConvert = SimpleJson.SimpleJson ' remapped to the class in JsonConvert
 
 Namespace ExceptionReporter
     ''' <summary>
